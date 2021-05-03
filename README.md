@@ -1,5 +1,5 @@
 # Programování v jazyce C
-<h1 align="center">Na vybrané výše uvedené úlohy si napište vlastní funkce. 👇🏽</h1>
+<h2 align="center">Na vybrané výše uvedené úlohy si napište vlastní funkce. 👇🏽</h1>
 
 ![](https://media1.tenor.com/images/db1c7506bb38866578a3547a9751015a/tenor.gif?itemid=11385819)
 
