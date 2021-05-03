@@ -1,10 +1,8 @@
 # Programování v jazyce C
-
 <p align="center">
-    **Na vybrané výše uvedené úlohy si napište vlastní funkce.** 👇🏽
+  <img width="250" src="https://media1.tenor.com/images/db1c7506bb38866578a3547a9751015a/tenor.gif?itemid=11385819" alt="Material Bread logo">
 </p>
-
-![Working](https://media1.tenor.com/images/db1c7506bb38866578a3547a9751015a/tenor.gif?itemid=11385819)
+**Na vybrané výše uvedené úlohy si napište vlastní funkce.** 👇🏽
 
 - [x] Základní program „Hello world“.
 - [x] Vypište mocniny dvou od 1 do 1024 pomocí cyklu a dvou proměnných.
