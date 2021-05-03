@@ -1,6 +1,8 @@
 # Programování v jazyce C
 **Na vybrané výše uvedené úlohy si napište vlastní funkce.** 👇🏽
 
+![Working](https://tenor.com/view/cat-typing-work-intense-gif-11385819)
+
 - [x] Základní program „Hello world“.
 - [x] Vypište mocniny dvou od 1 do 1024 pomocí cyklu a dvou proměnných.
 - [x] Vypište mocniny dvou od 1 do 1024 pomocí cyklu a jedné proměnné. 
@@ -25,4 +27,3 @@
 - [ ] Zadejte číslo v desítkové soustavě a převeďte je na číslo ve dvojkové soustavě.
 - [ ] Pomocí Césarovy šifry zašifrujte a vypište text zadaný na vstupu.
 - [ ] Naprogramujte hru miny pro jednoho hráče: Vygenerujte pole 5x5, do tohoto pole vložte 5 lodi 1x1. Poté zadávejte postupně souřadnice A1, B4 atp. a program vám bude hlásit zásahy a jednotlivá pole odkrývat.
-
