@@ -22,7 +22,7 @@
 - [ ] Určete, zdali bod A[x;y] leží na přímce: 3x + 2y – 3 = 0.
 - [ ] Na základě hodnoty počátečního vkladu (Kč), výše roční úrokové míry (%) a doby úspor (roky) spočítejte, o kolik Kč vzroste vaše úspora.
 - [ ] Spočítejte ciferný součet daného přirozeného čísla.
-- [ ] Vygenerujte 10 náhodných čísel do pole. Toto pole vypište prvek po prvku.
+- [x] Vygenerujte 10 náhodných čísel do pole. Toto pole vypište prvek po prvku.
 - [ ] Vygenerujte 10 náhodných čísel do pole. Najděte nejmenší, největší a průměrnou hodnotu. Toto pole vypište prvek po prvku a poté i ony nalezené hodnoty.
 - [ ] Vygenerujte 10 náhodných čísel do pole. Toto pole seřaďte dle velikosti. Původní i seřazené vypište.
 - [ ] Zadejte číslo v desítkové soustavě a převeďte je na číslo ve dvojkové soustavě.
