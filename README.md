@@ -1,4 +1,4 @@
-# prg-c
+# Programování v jazyce C
 **Na vybrané výše uvedené úlohy si napište vlastní funkce.** 👇🏽
 
 - [x] Základní program „Hello world“.
